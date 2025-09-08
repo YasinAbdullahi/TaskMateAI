@@ -1,7 +1,5 @@
 # 🚀 TaskMateAI - Intelligent Task Companion
 
-**TaskMateAI** is a modern, user-friendly to-do list application powered by AI that enables natural language interactions for seamless task management. Built with React.js, Python Flask, and Anthropic Claude API.
-
 ## ✨ Features
 
 - 🤖 **AI-Powered Chat Interface** - Interact with your tasks using natural language
@@ -41,6 +39,5 @@
 - Python Flask
 - SQLAlchemy (SQLite database)
 - Anthropic Claude API for natural language processing
-- Rule-based parsing with AI fallback
 
 *Transforming task management through the power of AI and natural language interaction.*
