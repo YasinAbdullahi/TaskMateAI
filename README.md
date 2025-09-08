@@ -43,6 +43,4 @@
 - Anthropic Claude API for natural language processing
 - Rule-based parsing with AI fallback
 
-**Built with ❤️ by Yasin
-
 *Transforming task management through the power of AI and natural language interaction.*
