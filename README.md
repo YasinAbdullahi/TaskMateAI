@@ -43,17 +43,6 @@
 - Anthropic Claude API for natural language processing
 - Rule-based parsing with AI fallback
 
-**Features:**
-- CORS enabled for cross-origin requests
-- Environment variable configuration
-- Robust error handling
-- RESTful API design
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 **Built with ❤️ by Yasin
 
 *Transforming task management through the power of AI and natural language interaction.*
